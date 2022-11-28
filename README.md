@@ -6,11 +6,11 @@ node index.js\
 (из папки blackstar) \
 Запустить frontend:\
 cd client\
-npm start\
+npm start
 
 Для входа в админскую чвсть:\
 username: admin\
-password: admin\
+password: admin
 
 Для того, чтобы посмотреть как работает приложение открыть две вкладки:\
 http://localhost:3000/admin\

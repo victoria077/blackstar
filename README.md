@@ -1,5 +1,5 @@
 # Getting Started 
-Для разработки проекта использовался MERN stack.\
+Для разработки проекта использовался MERN stack.
 
 Запустить backend:\
 node index.js\
